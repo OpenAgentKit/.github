@@ -1,5 +1,3 @@
-# OpenAgentKit
-
 <div align="center">
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/5955ac34-8b01-4987-ac7f-8070a43f6604" />
 
